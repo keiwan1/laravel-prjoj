@@ -1,0 +1,6 @@
+<?php
+
+return array(
+	'CONSUMER_KEY'    => 'M1jDRKXJZWUgzGHTh3t8Q',
+	'CONSUMER_SECRET' => 'guDeF2Ni7KD2lA0dsJN3mDEfT6RjDQkLHNPZJ8ZEN8'
+);

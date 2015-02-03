@@ -1,0 +1,107 @@
+********** Ninja Media Script Change Log **********
+
+--------------------------------------------------------------------------------
+
+//**********	Version: 1.0.7  	  **********//
+//**********	Date: Mar. 23, 2014	  **********//
+
+ - Another Ad placement
+ - Add count value media, users, comments, etc in Admin Dashboard
+ - Fixed a few layout issues.
+
+
+ --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+//**********	Version: 1.0.6  	  **********//
+//**********	Date: Mar. 16, 2014	  **********//
+
+ - Added French & Russian Language support.
+ - Comments must be at least 5 characters.
+ - Fixed a few labels for language support.
+ - If username is too long on user menu it will show max characters to avoid messing up alignment.
+ - If tags only had one tag it would not be shown, fixed.
+ - Cleaned up some code.
+ - Fixed a few site comment bugs.
+ - Fixed some missing icons in the admin control panel.
+ - Fixed issues with URL slugs for non-supported characters.
+
+
+ --------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+//**********	Version: 1.0.5  	  **********//
+//**********	Date: Mar. 09, 2014	  **********//
+
+ - Add Source to Media Page
+ - Language Support Included (spanish version available)
+ - Allow Non-english characters in the title and categories
+ - SEO Page titles for Single Media Pages
+ - Cleaned up some loose files
+
+
+ --------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+//**********	Version: 1.0.4  	  **********//
+//**********	Date: Mar. 02, 2014	  **********//
+
+ - Added Random Post Functionality
+ - Added FB Comments section along with Site Comments
+ - Reduce CSS files or duplicate asset files
+ - Fixed pagination layout on mobile devices if infinite scroll is disabled
+ - Sidebar on single media page is sticky
+ - Fix user comments to show their avatar and a link to their profile, also to show their name and when they have commented.
+
+
+ --------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+//**********	Version: 1.0.3  	  **********//
+//**********	Date: Feb. 26, 2014	  **********//
+
+ - Added custom error 403, 404, and 500 pages.
+ - Add validation if no video or image has been selected.
+ - Make sure media titles cannot be blank.
+ - Fix so that way usernames cannot contain a space.
+ - Make sure that categories when shown in the dropdown show them by name instead of slug. Spaces instead of dashes and not all lowercase.
+
+ --------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+//**********	Version: 1.0.2  	  **********//
+//**********	Date: Feb. 23, 2014	  **********//
+
+ - Admins can now add Site Analytics Embed Code in the admin settings.
+ - Admins can now turn on & off user registration.
+ - Usernames cannot have special characters, must be at least 3 characters, and cannot create a username that is already in use.
+ - Make sure that profile images are proportional while uploading them.
+ - Include separating line between posts.
+ - Fixed issue where users can spam with too many comments. Users have to wait at least 3 minutes before posting a new comment.
+ - Fixed Update Signup/Signin from getting cut off on small height devices such as iPod or iPhone.
+ - Fixed single media previous and next to only show media that has been approved.
+
+ --------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+//**********	Version: 1.0.1  	  **********//
+//**********	Date: Feb. 18, 2014	  **********//
+
+ - Fixed user points route to show correctly, previously page would display error.
+ - Fixed social icons on top to be hidden if they are empty.
+ - Fixed Issue where registered users were not being allowed to upload images.
+
+ --------------------------------------------------------------------------------
